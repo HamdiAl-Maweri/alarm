@@ -1,0 +1,28 @@
+.timer {
+    text-align: center;
+    width: 20%;
+    background-color:aquamarine;
+    position: relative;
+    left: 30%;
+    margin: 100px;
+    text-align: center;
+    border: 1px solid rgb(27, 73, 143);
+    padding:20px;
+  }
+
+  input{
+    border: none;
+    width:30px;
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px;
+
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #3276ad;
+    color: #fff;
+  }
+
